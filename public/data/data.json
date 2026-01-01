@@ -1,0 +1,177 @@
+{
+  "navbar": {
+    "left": "Faizan",
+    "middle": {
+      "first": "Home",
+      "second": "Projects",
+      "third": "Contact"
+    }
+  },
+
+  "hero": {
+    "greetings": "HELLO",
+    "name": "I'm Faizan Ali",
+    "typed": [
+      "Full Stack Web Developer.",
+      "Frontend Specialist.",
+      "Problem Solver."
+    ],
+    "description": "Motivated Full Stack Web Developer with hands-on experience building responsive, modern, and scalable web applications.",
+    "button": "View Projects"
+  },
+
+  "about": {
+    "left": {
+      "card1": {
+        "title": "Front-End",
+        "description": {
+          "first": "HTML, CSS, JS",
+          "second": "Tailwind & Bootstrap"
+        }
+      },
+      "card2": {
+        "title": "Back-End",
+        "description": "JavaScript, PHP & MySQL"
+      }
+    },
+    "right": {
+      "caption": "ABOUT ME",
+      "title": {
+        "first": "Building Reliable",
+        "second": "Web Solutions"
+      },
+      "description": "I’m a motivated and adaptable Full Stack Web Developer with practical experience in building responsive interfaces and contributing to backend development. I focus on clean code, performance, and delivering high-quality solutions in fast-paced environments.",
+      "card1": {
+        "title": "Clean Code",
+        "description": "Writing maintainable, scalable, and well-structured code for real-world applications.",
+        "icon": "code"
+      },
+      "card2": {
+        "title": "Team Collaboration",
+        "description": "Working closely with designers and developers to ensure UI/UX consistency.",
+        "icon": "users"
+      }
+    }
+  },
+
+  "service": {
+    "caption": "WHAT I DO",
+    "title": {
+      "first": "Frontend & Backend",
+      "second": "Web Development"
+    },
+    "description": "I design and develop responsive websites and web applications using modern technologies, focusing on performance, usability, and scalability.",
+    "left": [
+      {
+        "title": "Frontend Development",
+        "description": "Building responsive and pixel-perfect UIs using HTML, CSS, JavaScript, Bootstrap, and Tailwind."
+      },
+      {
+        "title": "Backend Development",
+        "description": "Developing backend features using JavaScript, PHP, and MySQL with clean architecture."
+      },
+      {
+        "title": "Figma to Code",
+        "description": "Converting Figma designs into SEO-optimized, high-performance web pages."
+      }
+    ]
+  },
+
+  "portfolio": {
+    "caption": "PROJECTS",
+    "title": "Real-World Applications I’ve Built",
+    "description": "A selection of projects showcasing my skills in frontend, backend, and full stack development.",
+    "projects": [
+      {
+        "image": "/Portfolio.png",
+        "category": "Next.js",
+        "title": "Portfolio App"
+      },
+      {
+        "image": "/SkillOrbit.png",
+        "category": "Frontend App",
+        "title": "SkillOrbit App"
+      },
+      {
+        "image": "/POS.png",
+        "category": "Full Stack",
+        "title": "POS System"
+      }
+    ]
+  },
+
+  "eduandexp": {
+    "caption": "EDUCATION & EXPERIENCE",
+    "title": "Learning, Building & Growing",
+    "description": "A journey of continuous learning through academic studies and hands-on development experience.",
+    "education": [
+      {
+        "title": "BS Software Engineering",
+        "time": "Sep 2020 – Dec 2024",
+        "description": "University of Sindh — CGPA: 3.1/4.00"
+      }
+    ],
+    "experience": [
+      {
+        "caption": "EXPERIENCE",
+        "title": "Web Developer",
+        "time": "Sep 2024 – Present",
+        "description": "Developed responsive websites and dashboards using HTML, CSS, JavaScript, PHP, Bootstrap, and Tailwind. Converted Figma designs into pixel-perfect UI and collaborated with teams to deliver high-quality solutions."
+      }
+    ]
+  },
+
+  "footer": {
+    "left": {
+      "caption": "</>Faizan",
+      "title": {
+        "first": "Let’s",
+        "second": "Build",
+        "third": "Together"
+      }
+    },
+    "middle": {
+      "title": "Quick Links",
+      "links": {
+        "first": "About Me",
+        "second": "Services",
+        "third": "Projects",
+        "fourth": "Contact"
+      }
+    },
+    "right": {
+      "title": "Contact",
+      "links": {
+        "first": "faizandevx@gmail.com",
+        "second": "Pakistan",
+        "third": "+92 347 3057550"
+      }
+    }
+  },
+
+  "projectspage": [
+    {
+      "image": "/Portfolio.png",
+      "category": "Next.js",
+      "title": "Portfolio App",
+      "link": "https://portfolio-chi-eight-97cgi415mw.vercel.app/"
+    },
+    {
+      "image": "/SkillOrbit.png",
+      "category": "Frontend",
+      "title": "SkillOrbit App",
+      "link": "#"
+    },
+    {
+      "image": "/POS.png",
+      "category": "Full Stack",
+      "title": "POS System",
+      "link": "#"
+    }
+  ],
+
+  "contactpage": {
+    "title": "Contact Me",
+    "description": "Have a project or opportunity in mind? Feel free to reach out — I’d love to connect."
+  }
+}

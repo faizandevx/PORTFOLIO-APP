@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body,
+#root {
+    position: relative;
+    z-index: 1;
+    overflow-x: hidden;
+}

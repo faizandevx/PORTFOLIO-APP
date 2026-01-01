@@ -1,0 +1,18 @@
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+body,
+#root {
+    position: relative;
+    z-index: 1;
+}
+
+@keyframes rainbowScroll {
+    0% {
+        background-position: 0% 0%;
+    }
+
+    100% {
+        background-position: 0% 200%;
+    }
+}
