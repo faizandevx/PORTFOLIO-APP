@@ -37,8 +37,8 @@ function LatestService() {
                         <div data-aos="fade-up" data-aos-delay="100" className="relative">
                             <div className="absolute -inset-10 bg-pink-600/30 blur-[100px] rounded-full opacity-60"></div>
                             <img
-                                src="/upscalar.jpg"
-                                alt="Front-End Developer"
+                                src="/Faizan-ali.jpeg"
+                                alt="Full-Stack Developer"
                                 className="relative z-10 w-64 md:w-80 lg:w-96 object-contain hover:scale-105 transition-transform duration-700 ease-out rounded-full"/>
                         </div>
                     </Tilt>

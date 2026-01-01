@@ -43,7 +43,7 @@ function Hero() {
         <p className="text-white dark:text-white text-md md:text-lg max-w-xl leading-relaxed mt-4">
           {hero.description}
         </p>
-        <a href="https://github.com/Ubaidullah-Web-Dev" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/faizandevx" target="_blank" rel="noopener noreferrer">
         <button className="relative mt-8 bg-pink-600 dark:bg-pink-500 text-white font-semibold px-6 py-3 rounded-full overflow-hidden group transition-all duration-300 hover:shadow-[0_0_20px_rgba(236,72,153,0.6)] dark:hover:shadow-[0_0_20px_rgba(236,72,153,0.4)]">
           <span className="absolute inset-0 bg-pink-700/80 scale-0 rounded-full opacity-0 group-hover:opacity-100 transition-transform duration-700 ease-out origin-center group-hover:scale-150"></span>
           <span className="absolute inset-0 rounded-full border border-pink-400/40 opacity-0 group-hover:animate-ping"></span>

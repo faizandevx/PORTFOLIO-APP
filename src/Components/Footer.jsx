@@ -82,7 +82,7 @@ function Footer() {
                         <li className="flex items-center">
                             <FiMail className="text-pink-600 mr-3 text-lg" />
                             <a
-                                href="mailto:ubaidullah.web.dev@gmail.com"
+                                href="mailto:faizandevx@gmail.com"
                                 className={
                                     "relative inline-block text-lg text-black/80 dark:text-white/80 " +
                                     "transition-colors duration-300 hover:text-red-500 dark:hover:text-pink-400 " +
@@ -103,7 +103,7 @@ function Footer() {
                         <li className="flex items-center">
                             <FiPhone className="text-pink-600 mr-3 text-lg" />
                             <a
-                                href="https://wa.me/923287231804"
+                                href="https://wa.me/923473057550"
                                 className={
                                     "relative inline-block text-lg text-black/80 dark:text-white/80 " +
                                     "transition-colors duration-300 hover:text-red-500 dark:hover:text-pink-400 " +
@@ -114,21 +114,21 @@ function Footer() {
                     </ul>
                     <div className="flex space-x-4">
                         <a
-                            href="https://www.linkedin.com/in/ubaidullah-sajid-21792a383/"
+                            href="https://www.linkedin.com/in/faizan-ali-5aa430380/"
                             className="relative w-10 h-10 flex items-center justify-center overflow-hidden rounded-full bg-gray-100 dark:bg-zinc-800 transition-colors group">
                             <span
                                 className="absolute inset-0 rounded-full bg-pink-600 scale-0 transition-transform duration-500 ease-out origin-center group-hover:scale-100" />
                             <FaLinkedinIn className="relative text-gray-700 dark:text-gray-300 text-lg transition-colors duration-300 group-hover:text-white" />
                         </a>
                         <a
-                            href="https://github.com/Ubaidullah-Web-Dev?tab=repositories"
+                            href="https://github.com/faizandevx?tab=repositories"
                             className="relative w-10 h-10 flex items-center justify-center overflow-hidden rounded-full bg-gray-100 dark:bg-zinc-800 transition-colors group">
                             <span
                                 className="absolute inset-0 rounded-full bg-pink-600 scale-0 transition-transform duration-500 ease-out origin-center group-hover:scale-100" />
                             <FaGithub className="relative text-gray-700 dark:text-gray-300 text-lg transition-colors duration-300 group-hover:text-white" />
                         </a>
                         <a
-                            href="https://wa.me/923287231804"
+                            href="https://wa.me/923473057550"
                             className="relative w-10 h-10 flex items-center justify-center overflow-hidden rounded-full bg-gray-100 dark:bg-zinc-800 transition-colors group">
                             <span
                                 className="absolute inset-0 rounded-full bg-pink-600 scale-0 transition-transform duration-500 ease-out origin-center group-hover:scale-100" />
@@ -142,7 +142,7 @@ function Footer() {
                 data-aos="fade-right"
                 data-aos-delay="350"
                 className="container mx-auto px-6 pb-5 mt-16 pt-8 border-t border-gray-200 dark:border-gray-800 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500 dark:text-gray-400">
-                <p className="text-black/70 dark:text-gray-400">&copy; Ubaid 2025 | All Rights Reserved</p>
+                <p className="text-black/70 dark:text-gray-400">&copy; Faizan 2025 | All Rights Reserved</p>
                 <div className="flex space-x-6 mt-4 md:mt-0">
                     <a
                         href="#"
